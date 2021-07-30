@@ -16,10 +16,12 @@
 ### I am familiar with these technologies:
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-48.png" />][python]
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-48.png" />][java]
+[<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-48.png" />][rstudio]
 [<img align="left" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-48.png" />][excel]
 [<img align="left" width="50px" src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-initializr/0.7.0/1615883353860/Microsoft.VisualStudio.Services.Icons.Default" />][spring]
-[<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-48.png" />][rstudio]
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-48.png" />][postgresql]
+[<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-48.png" />][mysql]
+[<img align="left" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-48.png" />][git]
 
 
 
@@ -42,3 +44,5 @@ I'm interested in
 [spring]: https://spring.io/projects/spring-boot
 [rstudio]: https://www.rstudio.com/about/
 [postgresql]: https://www.postgresql.org/about/
+[mysql]: https://www.mysql.com/about/
+[git]: https://git-scm.com/about
