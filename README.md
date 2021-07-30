@@ -11,8 +11,8 @@
 [<img align="left" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/160_Hackerrank_logo_logos-48.png" />][hackerrank]
 [<img align="left" src="https://cdn2.iconfinder.com/data/icons/social-icons-rectangular-black/512/stackoverflow-48.png" />][stackoverflow]
 [<img align="left" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/189_Kaggle_logo_logos-48.png" />][kaggle]
-[<img align="left" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/211_Medium_logo_logos-48.png" />][medium] <br> <br> <br>
-
+[<img align="left" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/211_Medium_logo_logos-48.png" />][medium] 
+<br> <br> <br>
 ### I am familiar with these technologies:
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-48.png" />][python]
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-48.png" />][java]
@@ -25,11 +25,16 @@
 [<img align="left" width="50px" src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4.png" />][colab]
 
 <br> <br> <br>
+### Recent Repo: <br>
+<a href="https://github.com/emrullahozkilinc/machine-learning">Machine Learning Repo</a><br>
+About: I'm currently keep my ML exercises and project in this repo. I have used these models so far;
+##### Linear Regression, Regression Tree, Decision Tree, Neural Networks and SVM. 
+<br> <br>
 
-## 🔥 Streak Stats
+### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emrullahozkilinc&theme=algolia" alt="emrullahozkilinc"  /></p>
 
-## 📊 Github Stats (Expand to View) 
+### 📊 Github Stats (Expand to View) 
 
 
 <details> 
