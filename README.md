@@ -22,7 +22,40 @@
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-48.png" />][postgresql]
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-48.png" />][mysql]
 [<img align="left" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-48.png" />][git]
+[<img align="left" width="50px" src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4.png" />][colab]
 
+<br> <br> <br>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emrullahozkilinc&theme=algolia" alt="emrullahozkilinc"  /></p>
+
+## 📊 Github Stats (Expand to View) 
+
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=emrullahozkilinc&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emrullahozkilinc&show_icons=true&locale=en&layout=compact&theme=algolia" alt="emrullahozkilinc" height="192px"/>
+  <br/>
+  </p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/emrullahozkilinc"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emrullahozkilinc&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=emrullahozkilinc&label=Profile%20views&color=0e75b6&style=plastic" alt="emrullahozkilinc" /> </p>
 
 
 <!--
@@ -46,3 +79,4 @@ I'm interested in
 [postgresql]: https://www.postgresql.org/about/
 [mysql]: https://www.mysql.com/about/
 [git]: https://git-scm.com/about
+[colab]: https://colab.research.google.com/
