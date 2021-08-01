@@ -53,7 +53,7 @@ About: I'm currently keep my ML exercises and project in this repo. I have used 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/emrullahozkilinc"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emrullahozkilinc&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/emrullahozkilinc"><img alt="Emrullah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emrullahozkilinc&custom_title=Emrullah's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
