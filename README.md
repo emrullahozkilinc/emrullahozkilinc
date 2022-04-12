@@ -70,7 +70,7 @@ Reach to me
 [hackerrank]: https://www.hackerrank.com/emr_ozk_71
 [twitter]: https://twitter.com/emr_ozkl
 [stackoverflow]: https://stackoverflow.com/users/10712497/emrullah-ozkilinc
-[kaggle]: https://www.kaggle.com/emrozk
+[kaggle]: https://www.kaggle.com/emrullahzkln
 [medium]: https://emr-ozk-71.medium.com/
 
 <!--
