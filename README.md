@@ -22,10 +22,13 @@
 [<img align="left" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-48.png" />][excel]
 
 <br> <br> <br>
-### Recent Repo: <br>
-<a href="https://github.com/emrullahozkilinc/machine-learning">Machine Learning Repo</a><br>
-About: I'm currently keep my ML exercises and project in this repo. I have used these models so far;
-##### Linear Regression, Regression Tree, Decision Tree, Neural Networks and SVM. 
+### Recent Repo: <a href="https://github.com/emrullahozkilinc/education-app">Education App</a><br>
+#### About: I'm currently working on register based login system in this repo. This project uses these technologies;
+- Spring Security
+- Spring Validation
+- PostgreSQL
+- JWT
+- ReactJS 
 <br> <br>
 
 ### 🔥 Streak Stats
