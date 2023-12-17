@@ -16,18 +16,18 @@
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-48.png" />][java]
 [<img align="left" width="50px" src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-initializr/0.7.0/1615883353860/Microsoft.VisualStudio.Services.Icons.Default" />][spring]
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-48.png" />][redis]
-[<img align="left" src="https://cdn.icon-icons.com/icons2/2248/PNG/48/apache_kafka_icon_138937.png" />][kafka]
+[<img align="left" src="https://icons-for-free.com/iconfiles/png/48/apache+kafka-1331550886393441357.png" />][kafka]
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-48.png" />][mongo]
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-48.png" />][postgresql]
 [<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-48.png" />][mysql]
 [<img align="left" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-48.png" />][git]
-
+<br> <br>
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emrullahozkilinc&theme=algolia" alt="emrullahozkilinc"  /></p>
 
 ### 📊 Github Stats (Expand to View) 
-
+<br> <br>
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
